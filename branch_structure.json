@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-209-fix-api-reject-out-of-range-spread-and-fee",
+    "fix/issue-213-fix-api-apply-a-rate-limiter-to-the-public",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-209-fix-api-reject-out-of-range-spread-and-fee": "main",
+    "fix/issue-213-fix-api-apply-a-rate-limiter-to-the-public": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-209-fix-api-reject-out-of-range-spread-and-fee",
+    "fix/issue-213-fix-api-apply-a-rate-limiter-to-the-public",
+    "origin"
+  ]
+}
